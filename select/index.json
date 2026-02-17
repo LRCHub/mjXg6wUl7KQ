@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "超絶ヒロイン (off vocal ver.)",
+  "base_artist": "≠ME",
+  "createdAt": "2026-02-17T04:39:55.981894Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "超絶ヒロイン",
+      "artist": "≠ME",
+      "has_synced": true,
+      "path": "select/01_超絶ヒロイン_≠ME.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "超絶ヒロイン",
+      "artist": "Not Equal Me",
+      "has_synced": true,
+      "path": "select/02_超絶ヒロイン_Not_Equal_Me.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "超絶ヒロイン",
+      "artist": "≠ME",
+      "has_synced": false,
+      "path": "select/pl_01_超絶ヒロイン_≠ME.txt"
+    }
+  ]
+}
